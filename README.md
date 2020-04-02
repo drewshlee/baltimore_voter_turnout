@@ -22,7 +22,7 @@ In Maryland, citizens who are registered to vote can vote for the general electi
 * Early Voting, in-person between October 22nd and 29th between 8am-8pm.
 * Absentee ballot, mailed ballot by election day. 
 * Election Day, in-person at assigned polling place. 
-With a state-wide shelter-in-place and social distancing guidelines of keeping people 6ft apart, in-person voting will likely decrease and place more importance on mail-in absentee ballots. We've already seen this happen in several primaries [(3)](https://www.npr.org/2020/03/16/815504537/voting-amid-coronavirus-what-you-need-to-know).
+With a state-wide shelter-in-place and social distancing guidelines of keeping people 6ft apart, in-person voting will likely decrease and place more importance on mail-in absentee ballots. We've already seen this happen in several primaries [(4)](https://www.npr.org/2020/03/16/815504537/voting-amid-coronavirus-what-you-need-to-know).
 
 It is vital that we understand the implications of the pandemic on the election to best know what measures can and should be taken to adapt voting systems to allow as many eligible voters to participate under the circumstances. 
 
