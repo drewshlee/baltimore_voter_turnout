@@ -3,16 +3,24 @@ make sure to:
 - [ ] upload analyzed excel files to show work to derive data insights
 - [ ] check [github template](https://github.com/jhu-business-analytics/midterm-project-template)
 
-# Using ... Analysis to Understand and Improve Voter Turnout in Baltimore
-2-3 sentences that explain your “business question” and some high-level findings and suggestions. This is like the abstract of your executive summary. Tell the reader a little bit about your business question, why this is important, a high-level finding, and the future implications of your findings. This can include some statistics, but shouldn’t dive deep into specifics about your analysis. Make this short and captivating so that the user wants to continue reading about this topic and what you’ve done. You can use bullet points in this section to emphasize some key points or findings that are further explained in the:
+what factors contribute to low voter turnout in MD
+- which of these change the most based on covid? (not edu, transportation)
+- 
 
-* Challenge/problem section
-* Solution section
-* Suggestion section
-
-But make sure to surround the bullets with additional context for what the reader is about to encounter in your summary.
+# How Voter Turnout in the 2020 Election Could Be Impacted by the COVID-19 Pandemic 
+// TODO when done at end 
+2-3 sentences that explain your “business question” and some high-level findings and suggestions. Tell the reader a little bit about your business question, why this is important, a high-level finding, and the future implicateions of your findings. Make this short and captivating so that the user wants to continue reading about this topic and what you’ve done. 
 
 ## Background
+As the 2020 National Election approaches and the novel coronavirus continues to spread across the country, COVID-19 presents many logistical challenges to campaigns and voting efforts. Measures to prevent the further spread of COVID-19 have led to cancelled events of all kinds- from sports seasons to campaign rallies, -- to --. To date, 15 states have restructured or rescheduled their presidential primaries ((1))[https://www.nytimes.com/article/2020-campaign-primary-calendar-coronavirus.html]. Including Maryland who's primary date went from April 28th to June 2nd. 
+This year's presidential election was already expected to be divisive and intense without a threatening nation-wide pandemic. 
+
+Unlike the primary elections, however, the date of the general election is set by federal law which means that postponing it would not only be a tremendous political ordeal, but would also potentially result in social upheaval. While it is still unclear how the United States will find itself in just a matter of months, 
+However threatening this pandemic, we cannot let it interrupt out democratic process 
+
+measures to prevent the further spread of
+
+
 What is your business question and why is this important? This is obviously important to you because you’re working on the project, but why should the reader care about this problem as well? What other other industries (i.e. automotive, public sector, emerging technology), groups (i.e. executives, mechanics, accountants), or demographics (sex, gender, race, location) is this problem relevant for? What’s happening now because of this problem and what are potential bigger problems that can arise from nothing being done about this problem? You can use statistics and numbers to enforce your statements, but make sure to make these accessible to a general audience. Link to your sources, articles, datasets, etc. here for people to read more about specific issues that might be useful. This section should be no longer than a paragraph.
 #### Original Question: Outline the “why” for analysing this data set and what questions you hope to answer by conducting data analysis. 
 * Link outside sources to support your need for answering this question, and provide personal/professional background on why this is an interest to you.
