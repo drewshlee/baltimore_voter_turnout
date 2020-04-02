@@ -7,7 +7,7 @@ what factors contribute to low voter turnout in MD
 - which of these change the most based on covid? (not edu, transportation)
 - 
 
-# How Voter Turnout in the 2020 Election Could Be Impacted by the COVID-19 Pandemic 
+# How Voter Turnout in the 2020 Election Could Be Impacted by the COVID-19 Pandemic in Maryland
 // TODO when done at end 
 2-3 sentences that explain your “business question” and some high-level findings and suggestions. Tell the reader a little bit about your business question, why this is important, a high-level finding, and the future implicateions of your findings. Make this short and captivating so that the user wants to continue reading about this topic and what you’ve done. 
 
@@ -22,7 +22,7 @@ In Maryland, citizens who are registered to vote can vote for the general electi
 * Election Day, in-person at assigned polling place. 
 With a state-wide shelter-in-place and social distancing guidelines of keeping people 6ft apart, in-person voting will likely decrease and place more importance on mail-in absentee ballots. We've already seen this happen in several primaries [(2)](https://www.npr.org/2020/03/16/815504537/voting-amid-coronavirus-what-you-need-to-know).
 
-It is vital that we understanding the implications of the pandemic on the election to best know what measures can and should be taken to adapt voting systems to allow as many eligible voters to participate under the circumstances. 
+It is vital that we understand the implications of the pandemic on the election to best know what measures can and should be taken to adapt voting systems to allow as many eligible voters to participate under the circumstances. 
 
 #### Original Question: Outline the “why” for analysing this data set and what questions you hope to answer by conducting data analysis. 
 * Link outside sources to support your need for answering this question, and provide personal/professional background on why this is an interest to you.
