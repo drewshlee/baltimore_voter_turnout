@@ -7,7 +7,7 @@ what factors contribute to low voter turnout in MD
 - which of these change the most based on covid? (not edu, transportation)
 - 
 
-# How Voter Turnout in the 2020 Election Could Be Impacted by the COVID-19 Pandemic in Maryland
+# How Voter Turnout for Older Adults in the 2020 Election Could Be Impacted by the COVID-19 Pandemic in Maryland
 // TODO when done at end 
 2-3 sentences that explain your “business question” and some high-level findings and suggestions. Tell the reader a little bit about your business question, why this is important, a high-level finding, and the future implicateions of your findings. Make this short and captivating so that the user wants to continue reading about this topic and what you’ve done. 
 
