@@ -29,12 +29,16 @@ With a state-wide shelter-in-place and social distancing guidelines of keeping p
 
 
 ## Solution
-
-
 * use any of the techniques we've talked about in class (pivot tables/charts, simple & multiple linear regression, clustering)
 * Interpret your methods in big-picture analysis, simple linear regression, correlation, multiple linear regression, and clustering into words that a general audience can understand, and relate these findings back to your original business question. Clear data visualizations and data tables can easily help point out trends, outliers, and distributions. 
 * Relate the data findings back to your initial business question and larger civic issue to propose insights, findings, and/or recommendations that go beyond the metrics (i.e. what do these numbers mean, how can this be used in the field, and what additional data or metrics should be collected/conducted to drive better solutions?)
 * What do your findings mean and why are these important to you? Who might benefit from this data analysis? What additional information might you need to draw further conclusions?
+
+### 2016 Presidential Election Analysis
+
+### Impact of COVID-19 in Maryland
+
+
 
 
 ## Future Suggestions
