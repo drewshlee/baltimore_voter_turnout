@@ -30,7 +30,11 @@ With a state-wide shelter-in-place and social distancing guidelines of keeping p
 ## Solution
 
 ### 2016 Presidential Election Analysis
-First, let's analyze what methods precincts across Maryland were more likely to use in the 2016 General Election. Analyzed data found [here](TODO). Maryland has a total of 1,989 precincts and the number of eligible voters and turnout percentage for each precinct varies widely. The following histograms show the popularity of different methods of voting across all Maryland precincts. 
+
+To analyze what voting methods citizens across Maryland were more likely to use in the 2016 General Election, we will be using [Maryland's Official Turnout Statistics for the 2016 General Election in Maryland by Party and Precinct](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/Official%20by%20Party%20and%20Precinct.csv).
+Excel file with analyzed data found [here](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/MD%20Vote%20Method%20Frequency%20Analysis.xlsx). 
+
+Maryland has a total of 1,989 precincts and the number of eligible voters and turnout percentage for each precinct varies widely. The following histograms show the popularity of different methods of voting across all Maryland precincts. 
 
 #### Frequency of Voting on Election Day
 Across all precincts in Maryland, there is a wide distribution of number of votes on Election Day. For 2016, about 17% of precincts received between 800 to 1,000 votes, 48% receivied less than 800 votes, and 35% received more than 1,000 votes.
