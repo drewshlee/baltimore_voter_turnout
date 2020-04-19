@@ -8,7 +8,7 @@ It is vital that we understand the implications of the pandemic on the election 
 // TODO when done at end 
 * 2-3 sentences that explain your “business question” and some high-level findings and suggestions. Tell the reader a little bit about your business question, why this is important, a high-level finding, and the future implicateions of your findings. Make this short and captivating so that the user wants to continue reading about this topic and what you’ve done. 
 
-## Original Question: 
+**Original Question: //TODO**
 
 ## Background
 As the 2020 National Election approaches and the novel coronavirus continues to spread across the country, COVID-19 presents many challenges to voting efforts beyond the already existing factors. Measures to prevent the further spread of COVID-19 have led to cancelled events of all kinds- from sports seasons to campaign rallies, concerts to canvassing. To date, 16 states have already restructured or rescheduled their presidential primaries [(1)](https://www.nytimes.com/article/2020-campaign-primary-calendar-coronavirus.html).
@@ -25,8 +25,6 @@ In Maryland, citizens who are registered to vote can vote for the general electi
 * Absentee ballot, mailed ballot by election day. 
 * Election Day, in-person at assigned polling place. 
 With a state-wide shelter-in-place and social distancing guidelines of keeping people 6ft apart, in-person voting will likely decrease and place more importance on mail-in absentee ballots. We've already seen this happen in several primaries [(7)](https://www.npr.org/2020/03/16/815504537/voting-amid-coronavirus-what-you-need-to-know).
-
-
 
 
 
