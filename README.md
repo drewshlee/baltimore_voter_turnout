@@ -24,8 +24,7 @@ In Maryland, citizens who are registered to vote can vote for the general electi
 * Early Voting, in-person between October 22nd and 29th between 8am-8pm.
 * Absentee ballot, mailed ballot by election day. 
 * Election Day, in-person at assigned polling place. 
-With a state-wide shelter-in-place and social distancing guidelines of keeping people 6ft apart, in-person voting will likely decrease and place more importance on mail-in absentee ballots. We've already seen this happen in several primaries [(7)](https://www.npr.org/2020/03/16/815504537/voting-amid-coronavirus-what-you-need-to-know).
-
+With a state-wide shelter-in-place and social distancing guidelines of keeping people 6ft apart, in-person voting will most likely decrease which places more importance on mail-in absentee ballots. We've already seen this happen in several primaries [(7)](https://www.npr.org/2020/03/16/815504537/voting-amid-coronavirus-what-you-need-to-know).
 
 
 ## Solution
@@ -36,8 +35,24 @@ With a state-wide shelter-in-place and social distancing guidelines of keeping p
 
 ### 2016 Presidential Election Analysis
 
-### Impact of COVID-19 in Maryland
+First, let's analyze what methods precincts across Maryland were more likely to use in the 2016 General Election. 
+Since the number of eligible voters varies greatly between precincts, the number of votes a precinct receives also varies. For this reason, we standardize the vote type data to be on the same scale in order for us to adequately compare them to one another. These normalized values tell us how many standard deviations that datapoint is from the mean.
 
+The following histograms show the number of precincts within the z-score intervals: 
+* (<= -2), (-2 to -1.5), (-1.5 to -1), (-1 to -0.5), (-0.5 to 0), (0 to 0.5), (0.5 to 1), (1 to 1.5), (1.5 to 2). 
+
+#### Frequency of Voting on Election Day
+![Polls Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Polls%20Histogram.png)
+Most 
+
+#### Frequency of Early Voting 
+![Early Voting Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Early%20Voting%20Histogram.png)
+
+#### Frequency of Absentee Voting
+![Absentee Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Absentee%20Histogram.png)
+
+
+### Impact of COVID-19 in Maryland
 
 
 
