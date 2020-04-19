@@ -35,15 +35,11 @@ With a state-wide shelter-in-place and social distancing guidelines of keeping p
 
 ### 2016 Presidential Election Analysis
 
-First, let's analyze what methods precincts across Maryland were more likely to use in the 2016 General Election. 
-Since the number of eligible voters varies greatly between precincts, the number of votes a precinct receives also varies. For this reason, we standardize the vote type data to be on the same scale in order for us to adequately compare them to one another. These normalized values tell us how many standard deviations that datapoint is from the mean.
-
-The following histograms show the number of precincts within the z-score intervals: 
-* (<= -2), (-2 to -1.5), (-1.5 to -1), (-1 to -0.5), (-0.5 to 0), (0 to 0.5), (0.5 to 1), (1 to 1.5), (1.5 to 2). 
+First, let's analyze what methods precincts across Maryland were more likely to use in the 2016 General Election. Analyzed data found [here](TODO).
 
 #### Frequency of Voting on Election Day
 ![Polls Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Polls%20Histogram.png)
-Most 
+
 
 #### Frequency of Early Voting 
 ![Early Voting Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Early%20Voting%20Histogram.png)
