@@ -28,26 +28,21 @@ With a state-wide shelter-in-place and social distancing guidelines of keeping p
 
 
 ## Solution
-* use any of the techniques we've talked about in class (pivot tables/charts, simple & multiple linear regression, clustering)
-* Interpret your methods in big-picture analysis, simple linear regression, correlation, multiple linear regression, and clustering into words that a general audience can understand, and relate these findings back to your original business question. Clear data visualizations and data tables can easily help point out trends, outliers, and distributions. 
-* Relate the data findings back to your initial business question and larger civic issue to propose insights, findings, and/or recommendations that go beyond the metrics (i.e. what do these numbers mean, how can this be used in the field, and what additional data or metrics should be collected/conducted to drive better solutions?)
-* What do your findings mean and why are these important to you? Who might benefit from this data analysis? What additional information might you need to draw further conclusions?
 
 ### 2016 Presidential Election Analysis
-
 First, let's analyze what methods precincts across Maryland were more likely to use in the 2016 General Election. Analyzed data found [here](TODO). Maryland has a total of 1,989 precincts and the number of eligible voters and turnout percentage for each precinct varies widely. The following histograms show the popularity of different methods of voting across all Maryland precincts. 
 
 #### Frequency of Voting on Election Day
-![Polls Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Polls%20Histogram.png)
 Across all precincts in Maryland, there is a wide distribution of number of votes on Election Day. For 2016, about 17% of precincts received between 800 to 1,000 votes, 48% receivied less than 800 votes, and 35% received more than 1,000 votes.
+![Polls Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Polls%20Histogram.png)
 
 #### Frequency of Early Voting 
-![Early Voting Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Early%20Voting%20Histogram.png)
 For Early Voting period of October 22nd-29th 2016, there was an average number of 440 votes collected per precinct. This right-skewed histogram shows that about 74% of precincts received less than 600 votes during Early Voting with about 28% of precincts receiving between 0 to 200 votes. This shows that Early Voting is not all that popular across Maryland. 
+![Early Voting Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Early%20Voting%20Histogram.png)
 
 #### Frequency of Absentee Voting
-![Absentee Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Absentee%20Histogram.png)
 Throughout Maryland, absentee voting was very uncommon in the 2016 election. About 90% of precincts reveived between 0 and 200 votes, only 1 precinct received more than 600 absentee ballots, and there were no precincts that reveived more than 800 absentee ballots. 
+![Absentee Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Absentee%20Histogram.png)
 
 ### Impact of COVID-19 in Maryland
 
