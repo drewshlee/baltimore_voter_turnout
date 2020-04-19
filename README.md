@@ -7,7 +7,7 @@ what factors contribute to low voter turnout in MD
 - which of these change the most based on covid? (not edu, transportation)
 - 
 
-# How Voter Turnout for Older Adults in the 2020 Election Could Be Impacted by the COVID-19 Pandemic in Maryland
+# How Voter Turnout (for Older Adults) in the 2020 Election Could Be Impacted by the COVID-19 Pandemic in Maryland
 // TODO when done at end 
 2-3 sentences that explain your “business question” and some high-level findings and suggestions. Tell the reader a little bit about your business question, why this is important, a high-level finding, and the future implicateions of your findings. Make this short and captivating so that the user wants to continue reading about this topic and what you’ve done. 
 
@@ -16,7 +16,10 @@ As the 2020 National Election approaches and the novel coronavirus continues to 
 
 Unlike the primary elections, however, the date of the general election is set by federal law which means that postponing it would not only be a tremendous political ordeal, but would also potentially result in social upheaval. However threatening this pandemic, we cannot let it interrupt out democratic process and disenfranchise voters. While it is still unclear how the United States will find itself in just a matter of months, we must start preparing now for what is sure to be an unprecedented and logistically challenging general election. 
 
-In 2016, only 60% of eligible voters participated in the US presidential election [(2)](http://www.electproject.org/2016g). While total voter turnout for Maryland in the 2016 general election was 72%, voter turnout in Baltimore City was only slightly better than the national average at 62% [(3)](https://elections.maryland.gov/elections/2016/turnout/general/Official%20by%20Party%20and%20County.pdf).
+Older adults and those with underlying conditions are at higher risk for severe illness as a result of COVID-19 [(#)](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html). This is particularly concerning when considering overall voter turnout because older Americans are historically much more likely to vote. In 2016, citizens 65 years and older voted at higher rates (70.9%) than 45-64 year olds (66.6%), 30-44 year olds (48.7%), and 18-29 year olds (46.1%) [(#)](https://www.census.gov/newsroom/blogs/random-samplings/2017/05/voting_in_america.html).
+
+In 2016, only 60% of eligible voters participated in the US presidential election [(#)](http://www.electproject.org/2016g). While total voter turnout for Maryland in the 2016 general election was 72%, voter turnout in Baltimore City was only slightly better than the national average at 62% [(#)](https://elections.maryland.gov/elections/2016/turnout/general/Official%20by%20Party%20and%20County.pdf).
+
 
 In Maryland, citizens who are registered to vote can vote for the general election in one of three ways:
 * Early Voting, in-person between October 22nd and 29th between 8am-8pm.
