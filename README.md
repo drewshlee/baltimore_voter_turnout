@@ -41,8 +41,9 @@ For Early Voting period of October 22nd-29th 2016, there was an average number o
 ![Early Voting Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Early%20Voting%20Histogram.png)
 
 #### Frequency of Absentee Voting
-Throughout Maryland, absentee voting was very uncommon in the 2016 election. About 90% of precincts reveived between 0 and 200 votes, only 1 precinct received more than 600 absentee ballots, and there were no precincts that reveived more than 800 absentee ballots. 
+Throughout Maryland, absentee voting was very uncommon in the 2016 election. About 90% of precincts reveived between 0 and 200 votes, only 1 precinct received more than 600 absentee ballots, and there were no precincts that reveived more than 800 absentee ballots. When we break this down further, we see a right-skewed histogram showing that 68% of precincts received less than 100 absentee ballots. 
 ![Absentee Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Absentee%20Histogram.png)
+![Detailed Absentee Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Absentee%20Histogram%20(Detailed).png)
 
 ### Impact of COVID-19 in Maryland
 
