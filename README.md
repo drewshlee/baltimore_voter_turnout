@@ -49,8 +49,20 @@ Throughout Maryland, absentee voting was very uncommon in the 2016 election. Abo
 ![Absentee Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Absentee%20Histogram.png)
 ![Detailed Absentee Histogram](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/histograms/Absentee%20Histogram%20(Detailed).png)
 
-### Impact of COVID-19 in Maryland
+#### Geo-Map of Voter Turnout
+Out of curiosity, we also wanted to look at voter turnout to provide context on our analysis. The data presented here is by county for the 2016 General Election. As can be seen, St. Mary's County and Howard County has amongst the highest rate of voter turnout. Baltimore County and Talbot County had some of the lowest.
+![Voter Turnout Map](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/Figures/VoterTurnout.png)
 
+### Impact of COVID-19 in Maryland
+Given recent trends, it is also extremely important to place our analysis within the context of the COVID-19 pandemic. As this is a highly unprecedented time, it is likely that much of the factors involved in voter turnout will be even more impacted. Specifically, this is diffuclt for the older population, age groups above 65 years old. 
+
+#### Geo-Map of Percent Infected by Corona Virus
+At a first glance, Maryland is certainly better than many other states in terms of limiting the community-wide spread of corona virus amongst its counties. From the map, it can be noted that Queen Anne's and Talbot Counties have amongst the highest percent of cases as 04/20/2020 with the highest being about 0.4% of the total population of the county, irrespective of age, gender, or race. 
+![Percent Infected Map](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/Figures/PercentInfected.png)
+
+#### Geo-Map of County Risk Number
+From basic logical reasoning, it can be ascertained that COVID-19 certainly impacts the older age group of people above 65 years old. To assess how COVID-19 would impact the upcoming election, we wanted to see for each county what the impact would be given its population of citizens above 65 and percent of infected population. Amongs all of Maryland, we normalized both of these value and took the product to obtain a risk metric. Here, a higher value of the risk metric illustrates a county which has higher relative number of cases and higher relative population of citizens above 65 years old. The county with the highest risk number here was Talbot County, followed by Queen Anne's County and Baltimore County. 
+![Risk Map](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/Figures/RiskNumber.png)
 
 ## Future Suggestions
 * Now that you told us what needs to happen for your problem as a result of your analysis, how does this come into play in the next 6 months? Year? Ten years? 
