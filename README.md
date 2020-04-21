@@ -54,7 +54,7 @@ Out of curiosity, we also wanted to look at voter turnout to provide context on 
 ![Voter Turnout Map](https://github.com/CamilaCamacho/baltimore_voter_turnout/blob/master/Figures/VoterTurnout.png)
 
 ### Impact of COVID-19 in Maryland
-Given recent trends, it is also extremely important to place our analysis within the context of the COVID-19 pandemic. As this is a highly unprecedented time, it is likely that much of the factors involved in voter turnout will be even more impacted. Specifically, this is diffuclt for the older population, age groups above 65 years old. 
+Given recent trends, it is also extremely important to place our analysis within the context of the COVID-19 pandemic. As this is a highly unprecedented time, it is likely that much of the factors involved in voter turnout will be even more impacted. Specifically, this is difficult for the older population, age groups above 65 years old. 
 
 #### Geo-Map of Percent Infected by Corona Virus
 At a first glance, Maryland is certainly better than many other states in terms of limiting the community-wide spread of corona virus amongst its counties. From the map, it can be noted that Queen Anne's and Talbot Counties have amongst the highest percent of cases as 04/20/2020 with the highest being about 0.4% of the total population of the county, irrespective of age, gender, or race. 
